@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "John Brown-Asakpa!"
 ---
 
-Caption here
+I Love Games
 
 ![boxertocat](https://octodex.github.com/images/boxertocat_octodex.jpg)
 {: .center}
