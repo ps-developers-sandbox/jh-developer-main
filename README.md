@@ -53,6 +53,7 @@
 
 ### What's Next?
 
+YOU ARE ALL GROUNDED
 After you have completed this course, you are probably wondering where to go from here:
 
 - [GitHub Learning Lab](https://lab.github.com/): self-paced courses with instant bot-assisted feedback.
