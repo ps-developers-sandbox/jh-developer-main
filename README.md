@@ -2,7 +2,7 @@
 
 - Class Date: March 21-11, 2023
 - Facilitator: @jessehouwing
-- Contributor: @babatope-ajewole ⭐
+- Contributor: @babatope-ajewole ⭐ @everyone but Aliyu. Aliyu can't code - not possible.
 
 ## Class Resources
 
