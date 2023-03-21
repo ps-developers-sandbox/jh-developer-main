@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Jesse Houwing"
 ---
 
-Caption here
+Loves mountains
 
 ![luchadortocat](https://octodex.github.com/images/luchadortocat.png)
 {: .center}
